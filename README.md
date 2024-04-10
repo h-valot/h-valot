@@ -21,8 +21,14 @@
     <hr>
   </section>
 
-  ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=h-valot&hide=prs,issues,contribs&show_icons=true&theme=transparent)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=h-valot&layout=compact&theme=transparent)
+  <section>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=h-valot&hide=prs,issues,contribs&show_icons=true&theme=transparent&hide_rank=true" />
+    </a>
+    <a href="https://github.com/anuraghazra/convoychat">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=h-valot&layout=compact&theme=transparent" />
+    </a>
+  </section>
   
   <section>
     <a href="https://hgvalot.itch.io/" target="_blank">
