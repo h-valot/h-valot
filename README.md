@@ -1,19 +1,30 @@
-At the core of my work lies a strong emphasis on communication and collaboration. I enjoy optimizing processes, including developing tools geared towards enhancing efficiency. 
+<header>
+  
+</header>
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=h-valot&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+<body>
+  
+  <section>
+    <div align="center">
+      <h1> Hugo VALOT </h1>
+    </div> 
+  </section>
 
+  <section>  
+    <h2>🔖 About me :</h2>
+      <p>📌 Student game programmer at Bellecour Ecole</p>
+      <hr>
+      <p>
+        At the core of my work lies a strong emphasis on communication and collaboration.<br>
+        I enjoy optimizing processes, including developing tools geared towards enhancing efficiency.
+      </p>
+    <hr>
+  </section>
 
-<!--
-**h-valot/h-valot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=h-valot&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+  
+  <a href="https://hgvalot.itch.io/" target="_blank">
+      <img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=Itch.io&logoColor=white"/>
+  </a>
+    
+</body>
