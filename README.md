@@ -28,6 +28,7 @@
     <a href="https://github.com/anuraghazra/convoychat">
       <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=h-valot&layout=compact&theme=transparent" />
     </a>
+    <hr>
   </section>
   
   <section>
