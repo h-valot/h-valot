@@ -21,7 +21,7 @@
     <hr>
   </section>
 
-  [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=h-valot&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+  [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=h-valot&hide=prs,issues,contribs&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
   
   <section>
     <a href="https://hgvalot.itch.io/" target="_blank">
