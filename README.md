@@ -22,7 +22,7 @@
   </section>
 
   ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=h-valot&hide=prs,issues,contribs&show_icons=true&theme=transparent)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=h-valot&layout=compact)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=h-valot&layout=compact&theme=transparent)
   
   <section>
     <a href="https://hgvalot.itch.io/" target="_blank">
