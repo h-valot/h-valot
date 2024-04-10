@@ -6,18 +6,19 @@
   
   <section>
     <div align="center">
-      <h1> Hugo VALOT </h1>
+      <h1> I am Hugo VALOT </h1>
     </div> 
   </section>
 
   <section>  
-    <h2>🔖 About me :</h2>
-      <p>📌 Student game programmer at Bellecour Ecole</p>
-      <hr>
-      <p>
-        At the core of my work lies a strong emphasis on communication and collaboration.<br>
-        I enjoy optimizing processes, including developing tools geared towards enhancing efficiency.
-      </p>
+    <p>
+      Game programmer student at Bellecour Ecole
+    </p>
+    <hr>
+    <p>
+      At the core of my work lies a strong emphasis on communication and collaboration.<br>
+      I enjoy optimizing processes, including developing tools geared towards enhancing efficiency.
+    </p>
     <hr>
   </section>
 
