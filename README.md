@@ -1,6 +1,6 @@
 At the core of my work lies a strong emphasis on communication and collaboration. I enjoy optimizing processes, including developing tools geared towards enhancing efficiency. 
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=h-valot)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=h-valot&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
