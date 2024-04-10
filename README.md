@@ -1,4 +1,7 @@
-### Hi there 👋
+At the core of my work lies a strong emphasis on communication and collaboration. I enjoy optimizing processes, including developing tools geared towards enhancing efficiency. 
+
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=h-valot)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **h-valot/h-valot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
