@@ -12,9 +12,8 @@
 
   <section>  
     <p>
-      Game programmer student at Bellecour Ecole
+      📍 Game programmer student at Bellecour Ecole
     </p>
-    <hr>
     <p>
       At the core of my work lies a strong emphasis on communication and collaboration.<br>
       I enjoy optimizing processes, including developing tools geared towards enhancing efficiency.
