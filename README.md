@@ -6,7 +6,7 @@
 
 <section>  
   <p>
-    📍 Game programmer student at Bellecour Ecole
+    📍 Freelance game programmer
   </p>
   <p>
     At the core of my work lies a strong emphasis on communication and collaboration.<br>
